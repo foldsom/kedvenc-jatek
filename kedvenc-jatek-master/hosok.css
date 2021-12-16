@@ -1,0 +1,27 @@
+body
+{
+  background: url(8aoVnb.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+nav
+{
+  color: rgb(110, 185, 142);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: left;
+  font-size: 29px;
+  text-shadow: 2px 2px black;
+}
+#container
+{
+  background-color: rgba(0, 0, 0, 0.315);
+  border-width: 0.5em;
+  border-style: ridge;
+  border-radius: 30px;
+  border-color: rgba(128, 128, 128, 0.808);
+}
+h1, h2
+{
+  color: rgb(80, 177, 123);
+}

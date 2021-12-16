@@ -1,0 +1,27 @@
+body
+{
+  background: url(JEdnVm.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+nav
+{
+  color: lightskyblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 29px;
+  text-shadow: 2px 2px black;
+}
+#container
+{
+  background-color: rgba(0, 0, 0, 0.24);
+  border-width: 0.5em;
+  border-style: ridge;
+  border-radius: 30px;
+  border-color: rgba(100, 148, 237, 0.801);
+}
+h1
+{
+  color: skyblue;
+}
